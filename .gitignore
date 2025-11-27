@@ -1,0 +1,31 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.pkl
+*.pkl.gz
+*.zip
+*.tar.gz
+*.log
+
+# IDEs / Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit
+.streamlit/
+
+# Directorios de nube/OneDrive si llegaran a incluirse por error
+OneDrive/

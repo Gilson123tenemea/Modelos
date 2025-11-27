@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+pandaspip install -r requirements.txt
+
+matplotlib
+plotly
