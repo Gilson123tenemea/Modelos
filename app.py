@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 import json
 import pickle
-import matplotlib.pyplot as plt
 
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
